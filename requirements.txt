@@ -1,2 +1,2 @@
-pyarrow==0.16.0
+pyarrow==14.0.1
 memory_profiler
